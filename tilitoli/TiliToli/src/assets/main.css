@@ -1,0 +1,23 @@
+body{
+    background-color: #ecfdf5;
+}
+@font-face {
+    font-family: regular;
+    src: url(../assets/Inter-Regular.ttf);
+}
+@font-face {
+    font-family: regular-bold;
+    src: url(../assets/Inter-Bold.ttf);
+}
+body{
+    font-family: regular;
+}
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    min-width: 0;
+}
+
